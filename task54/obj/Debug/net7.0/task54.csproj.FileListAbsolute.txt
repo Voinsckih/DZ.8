@@ -1,0 +1,15 @@
+A:\Git\REP2403\DZ.8\task54\bin\Debug\net7.0\task54.exe
+A:\Git\REP2403\DZ.8\task54\bin\Debug\net7.0\task54.deps.json
+A:\Git\REP2403\DZ.8\task54\bin\Debug\net7.0\task54.runtimeconfig.json
+A:\Git\REP2403\DZ.8\task54\bin\Debug\net7.0\task54.dll
+A:\Git\REP2403\DZ.8\task54\bin\Debug\net7.0\task54.pdb
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\task54.csproj.AssemblyReference.cache
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\task54.AssemblyInfoInputs.cache
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\task54.AssemblyInfo.cs
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\task54.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\task54.dll
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\refint\task54.dll
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\task54.pdb
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\task54.genruntimeconfig.cache
+A:\Git\REP2403\DZ.8\task54\obj\Debug\net7.0\ref\task54.dll
